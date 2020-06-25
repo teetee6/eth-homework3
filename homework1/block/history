@@ -1,0 +1,32 @@
+
+eth.coinbase
+miner.setEtherbase(personal.listAccounts[0])
+miner.start()
+eth.blockNumber
+miner.stop()
+personal.listAccounts
+eth.getBalance(eth.accounts[0])
+personal.listWallets[0].status
+personal.listWallets[1].status
+var txnHash = web3.eth.sendTransaction({
+from: web3.eth.accounts[0],
+to: web3.eth.accounts[1],
+value: web3.toWei("1", "ether")
+});
+txpool
+eth.pendingTransactions
+miner.start()
+eth.blockNumber
+miner.stop()
+eth.pendingTransactions
+miner.stop()
+txpool
+eth.blockNumber
+eth.pendingTransactions
+miner.start()
+eth.blockNumber
+miner.stop()
+eth.pendingTransactions
+miner.stop()
+eth.pendingTransactions
+eth.accounts
