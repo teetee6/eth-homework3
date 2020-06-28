@@ -1,0 +1,170 @@
+[
+  {
+    "id": 0,
+	"name": "1917",
+	"picture": "images/1917.jpg",
+	"genre": "Drama, War",
+	"runtime": "1h 59min",
+	"release_date": "19 February 2020"
+  },
+  {
+    "id": 1,
+	"name": "inception",
+	"picture": "images/inception.jpg",
+	"genre": "Action, Adventure, Sci-Fi",
+	"runtime": "2h 28min",
+	"release_date": "21 July 2010"
+  },
+  {
+    "id": 2,
+	"name": "The Aeronauts",
+	"picture": "images/theaeronauts.jpg",
+	"genre": "Action, Adventure, Drama",
+	"runtime": "1h 40min",
+	"release_date": "4 November 2019"
+  },
+  {
+    "id": 3,
+	"name": "Knives Out",
+	"picture": "images/knivesout.jpg",
+	"genre": "Comedy, Crime, Drama",
+	"runtime": "2h 10min",
+	"release_date": "4 December 2019"
+  },
+  {
+    "id": 4,
+	"name": "Escape from Pretoria",
+	"picture": "images/escapefrompretoria.jpg",
+	"genre": "Thriller",
+	"runtime": "1h 46min",
+	"release_date": "6 May 2020"
+  },
+  {
+    "id": 5,
+	"name": "The Imitation Game",
+	"picture": "images/theimitationgame.jpg",
+	"genre": "Biography, Drama, Thriller",
+	"runtime": "1h 54min",
+	"release_date": "17 February 2015"
+  },
+  {
+    "id": 6,
+	"name": "A Star Is Born",
+	"picture": "images/astarisborn.jpg",
+	"genre": "Drama, Music, Romance",
+	"runtime": "2h 16min",
+	"release_date": "9 October 2018"
+  },
+  {
+    "id": 7,
+	"name": "Tenet",
+	"picture": "images/tenet.jpg",
+	"genre": "Action, Sci-Fi, Thriller",
+	"runtime": "*",
+	"release_date": "12 August 2020"
+  },
+  {
+    "id": 8,
+	"name": "Midsommar",
+	"picture": "images/midsommar.jpg",
+	"genre": "Drama, Horror, Mystery",
+	"runtime": "2h 28min",
+	"release_date": "11 July 2019"
+  },
+  {
+    "id": 9,
+	"name": "Green Book",
+	"picture": "images/greenbook.jpg",
+	"genre": "Biography, Comedy, Drama",
+	"runtime": "2h 10min",
+	"release_date": "9 January 2019"
+  },
+  {
+    "id": 10,
+	"name": "Toy Story 4",
+	"picture": "images/toystory4.jpg",
+	"genre": "Animation, Adventure, Comedy",
+	"runtime": "1h 40min",
+	"release_date": "20 June 2019"
+  },
+  {
+    "id": 11,
+	"name": "A Beautiful Mind",
+	"picture": "images/abeautifulmind.jpg",
+	"genre": "Biography, Drama",
+	"runtime": "2h 15min",
+	"release_date": "22 February 2002"
+  },
+  {
+    "id": 12,
+	"name": "The Shape of Water",
+	"picture": "images/theshapeofwater.jpg",
+	"genre": "Adventure, Drama, Fantasy",
+	"runtime": "2h 3min",
+	"release_date": "22 February 2018"
+  },
+  {
+    "id": 13,
+	"name": "12 Years a Slave",
+	"picture": "images/12yearsaslave.jpg",
+	"genre": "Biography, Drama, History",
+	"runtime": "2h 14min",
+	"release_date": "27 February 2014"
+  },
+  {
+    "id": 14,
+	"name": "No Country for Old Men",
+	"picture": "images/nocountryforoldmen.jpg",
+	"genre": "Crime, Drama, Thriller",
+	"runtime": "2h 2min",
+	"release_date": "21 February 2008"
+  },
+  {
+    "id": 15,
+	"name": "Titanic",
+	"picture": "images/titanic.jpg",
+	"genre": "Drama, Romance",
+	"runtime": "3h 14min",
+	"release_date": "20 February 1998"
+  },
+  {
+    "id": 16,
+	"name": "Gisaengchung",
+	"picture": "images/parasite.jpg",
+	"genre": "Comedy, Drama, Thriller",
+	"runtime": "2h 12min",
+	"release_date": "30 May 2019"
+  },
+  {
+    "id": 17,
+	"name": "Hidden Figures",
+	"picture": "images/hiddenfigures.jpg",
+	"genre": "Biography, Drama, History",
+	"runtime": "2h 7min",
+	"release_date": "6 January 2017"
+  },
+  {
+    "id": 18,
+	"name": "Catch Me If You Can",
+	"picture": "images/catchmeifyoucan.jpg",
+	"genre": "Biography, Crime, Drama",
+	"runtime": "2h 21min",
+	"release_date": "24 January 2003"
+  },
+  {
+    "id": 19,
+	"name": "Ford v Ferrari",
+	"picture": "images/fordvferrari.jpg",
+	"genre": "Action, Biography, Drama",
+	"runtime": "2h 32min",
+	"release_date": "4 December 2019"
+  },
+  {
+    "id": 20,
+	"name": "Shutter Island",
+	"picture": "images/shutterisland.jpg",
+	"genre": "Mystery, Thriller",
+	"runtime": "2h 18min",
+	"release_date": "18 March 2010"
+  }
+]
